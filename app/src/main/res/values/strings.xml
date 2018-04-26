@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Connection-WebServices-AT</string>
+
+    <!-- Toast Errores WS -->
+    <string name="WS_toast_error_API_general">Ha ocurrido un error. \n Inténtelo más tarde.</string>
+    <string name="WS_toast_error_API">Error en el acceso al API</string>
+    <string name="WS_toast_error_usuario">Operación cancelada por el usuario</string>
+    <string name="WS_toast_error_IOexception">Error al conectar con el servicio: \n compruebe los parámetros de configuración</string>
+    <string name="WS_toast_error_JSONexception">Error al procesar los datos</string>
 </resources>
